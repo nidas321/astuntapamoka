@@ -1,0 +1,28 @@
+.container{
+    width: 850px;
+    margin: 170px auto;
+}
+
+
+thead{
+    border-color: black;
+    background-color: gray;
+}
+
+th, td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+  table{
+    border-collapse: collapse;
+  }
+
+  table thead{
+    background-color: aquamarine;
+  }
+
+  table tbody{
+    border-color: beige;
+  }
